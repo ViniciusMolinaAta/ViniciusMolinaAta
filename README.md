@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Vinicius Molina
 
-- 🔭 Hoje trabalho com full-stack
+- 🔭 Hoje trabalho com .NET full-stack
 - 🌱 Estudando .NET
 - 📫 Contate-me no email: viniciusmolina@outlook.com.br
 
